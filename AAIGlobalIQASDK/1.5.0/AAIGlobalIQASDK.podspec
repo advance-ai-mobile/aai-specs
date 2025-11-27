@@ -22,5 +22,5 @@ Pod::Spec.new do |s|
   s.ios.library = 'c++', 'z'
   
   s.dependency 'AAINetwork', '~> 1.0.4'
-  s.dependency 'AAICore', '~> 1.0.0'
+  s.dependency 'AAICore', '~> 1.0.1'
 end
