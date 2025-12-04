@@ -37,4 +37,6 @@ Pod::Spec.new do |s|
   
   # Dependencies (auto-synced from SolutionSDK.podspec)
   
+  # Dependencies (auto-synced from SolutionSDK.podspec)
+  
 end
