@@ -23,5 +23,5 @@ Pod::Spec.new do |s|
   }
 
   s.dependency 'AAINetwork', '~> 1.1.0'
-  s.dependency 'AAICore', '~> 1.0.4'
+  s.dependency 'AAICore', '~> 1.0.5'
 end
