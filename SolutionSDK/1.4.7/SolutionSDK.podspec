@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 
   s.vendored_frameworks = ['Frameworks/*.xcframework']
 
-  s.dependency 'AAICoreSwift', '1.1.0-alpha.1'
+  s.dependency 'AAICoreSwift', '1.1.0'
   s.dependency 'AAIDataVisorSDK', '0.1.9'
   s.dependency 'AAICore', '1.0.6'
 
